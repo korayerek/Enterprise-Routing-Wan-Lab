@@ -13,6 +13,10 @@ The topology includes three sites:
 
 Each site has its own LAN and is connected through routed WAN links.
 
+## Network Topology
+
+![Topology](Koray_Erek_Routing_Wan_Lab.png)
+
 ---
 
 ## Objectives
